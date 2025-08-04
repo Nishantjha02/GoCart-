@@ -1,10 +1,10 @@
-# Forever-Ecommerce
+# GoCart
 
 ## Here I'm providing some screenshots of my website
 
 ## User Feature
 
-### Homepage of Forever Ecommerce
+### Homepage of GoCart Ecommerce
 
 - Here Some of Our Best Sellers Products and Latest Collections are Listed.
 - User Can click on any product to see about more details about that product.
@@ -105,13 +105,13 @@
 1. Clone this repository
 
   ```
-  git clone git@github.com:abhi051002/Forever-Ecommerce-FullStack.git
+  git clone git@github.com:abhi051002/GoCart-Ecommerce-FullStack.git
   ```
 
 2. Then Go to the Project directory
 
   ```
-  cd Forever-Ecommerce-FullStack
+  cd GoCart-Ecommerce-FullStack
   ```
 
 3. Go To frontend and install all dependencies
